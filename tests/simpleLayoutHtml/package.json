@@ -1,0 +1,22 @@
+{
+  "name": "simplelayouthtml",
+  "version": "1.0.0",
+  "description": "Testing a simple html layout",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geauxweisbeck4/Jest-testing.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Andrew Weisbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geauxweisbeck4/Jest-testing/issues"
+  },
+  "homepage": "https://github.com/geauxweisbeck4/Jest-testing#readme"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "finalgrade",
+  "version": "1.0.0",
+  "description": "Calculates a final grade based on a curve",
+  "main": "finalGrade.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geauxweisbeck4/Jest-testing.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Andrew Weisbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geauxweisbeck4/Jest-testing/issues"
+  },
+  "homepage": "https://github.com/geauxweisbeck4/Jest-testing#readme"
+}
